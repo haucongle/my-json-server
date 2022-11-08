@@ -1,4 +1,131 @@
 {
+  "accounts": [
+    {
+      "id": "adfd8d49-705c-4fc5-94df-666d6c208a50",
+      "name": "Wilhelmine Tolemache",
+      "created": "2022-10-15",
+      "activeDate": "2022-06-22",
+      "status": "active"
+    },
+    {
+      "id": "c67a6e69-8884-406a-a402-db24de39c31c",
+      "name": "Becky Farnin",
+      "created": "2022-11-04",
+      "activeDate": "2022-01-15",
+      "status": "terminated"
+    },
+    {
+      "id": "f1c6e225-5dc2-4ae2-867b-33d4af95c080",
+      "name": "Kit Menel",
+      "created": "2022-05-10",
+      "activeDate": "2022-04-14",
+      "status": "active"
+    },
+    {
+      "id": "d1abc3df-3016-4595-8d89-e99186e21811",
+      "name": "Berty Humblestone",
+      "created": "2022-07-13",
+      "activeDate": "2022-03-10",
+      "status": "inactive"
+    },
+    {
+      "id": "d712b64d-2838-4473-89fc-659419a4374e",
+      "name": "Aubry Dunphie",
+      "created": "2022-06-20",
+      "activeDate": "2022-03-04",
+      "status": "active"
+    },
+    {
+      "id": "f4f36229-c798-4835-8a5d-ee3ddb957f5f",
+      "name": "Katharina Plowes",
+      "created": "2022-09-04",
+      "activeDate": "2022-09-11",
+      "status": "terminated"
+    },
+    {
+      "id": "b0ac9342-ae22-4e80-9efe-1953b7e2e12e",
+      "name": "Gerrie Gayther",
+      "created": "2022-03-14",
+      "activeDate": "2021-12-22",
+      "status": "terminated"
+    },
+    {
+      "id": "0122f53c-256c-4097-a1b4-bb7940520dd1",
+      "name": "Annis Bridgett",
+      "created": "2021-12-18",
+      "activeDate": "2021-12-02",
+      "status": "terminated"
+    },
+    {
+      "id": "f6c3f05a-e09b-4d2e-8808-a543e1219eb1",
+      "name": "Stinky Sumsion",
+      "created": "2021-12-16",
+      "activeDate": "2022-04-01",
+      "status": "active"
+    },
+    {
+      "id": "1440b702-3e24-4065-8cd1-e3ba7e810e58",
+      "name": "Edythe Cloonan",
+      "created": "2022-06-10",
+      "activeDate": "2022-05-12",
+      "status": "inactive"
+    },
+    {
+      "id": "85f92a87-5f0d-4265-bd52-b227e734efc9",
+      "name": "Madel Deabill",
+      "created": "2022-02-20",
+      "activeDate": "2022-08-02",
+      "status": "terminated"
+    },
+    {
+      "id": "ed5e2a4f-f1a8-415f-b343-2851acfc32c7",
+      "name": "Ardine Frays",
+      "created": "2022-06-23",
+      "activeDate": "2022-06-27",
+      "status": "terminated"
+    },
+    {
+      "id": "e4c26e34-ca4c-4fe7-b46d-7c5c0cab1793",
+      "name": "Kelcie Bleibaum",
+      "created": "2022-02-21",
+      "activeDate": "2022-10-10",
+      "status": "terminated"
+    },
+    {
+      "id": "a5f73afe-de6f-4cd0-9521-8172eb1c519b",
+      "name": "Burton Itzig",
+      "created": "2021-11-09",
+      "activeDate": "2022-11-04",
+      "status": "active"
+    },
+    {
+      "id": "0d07938f-6c80-4e9f-a74f-ea02f3c19c9c",
+      "name": "Elias Stoad",
+      "created": "2022-05-12",
+      "activeDate": "2022-09-25",
+      "status": "terminated"
+    },
+    {
+      "id": "7d4e35cb-0cab-4053-a3d3-5b622bffa7d8",
+      "name": "Stacey Hakes",
+      "created": "2022-08-23",
+      "activeDate": "2022-03-26",
+      "status": "terminated"
+    },
+    {
+      "id": "38276f89-f676-465f-9a5a-885a9d9a2c42",
+      "name": "Curran Duffyn",
+      "created": "2022-01-24",
+      "activeDate": "2021-11-22",
+      "status": "terminated"
+    },
+    {
+      "id": "d8559a4e-3937-4e22-8062-d77396a3052b",
+      "name": "Zonnya Wilsone",
+      "created": "2021-12-02",
+      "activeDate": "2022-02-04",
+      "status": "terminated"
+    }],
   "users": [
     {
       "id": 1,
