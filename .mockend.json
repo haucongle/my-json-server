@@ -1,7 +1,4 @@
 {
-  "Book": {
-    "title": { "string": {} }
-  },
   "User": {
     "name": {
       "string": {}
